@@ -36,6 +36,12 @@ yarn format
 yarn build
 ```
 
+### Run tests
+
+```
+yarn test
+```
+
 ### Run dev server
 
 ```
