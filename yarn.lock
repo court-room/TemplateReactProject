@@ -2436,10 +2436,10 @@ semver@^7.6.0:
   resolved "https://registry.yarnpkg.com/semver/-/semver-7.7.1.tgz#abd5098d82b18c6c81f6074ff2647fd3e7220c9f"
   integrity sha512-hlq8tAfn0m/61p4BVRcPzIGr6LKiMwo4VM6dGi6pt4qcRkmNzTcWq6eCEjEh+qXjkMDvPlOFFSGwQjoEa6gyMA==
 
-shadcn@^2.4.0-canary.11:
-  version "2.4.0-canary.11"
-  resolved "https://registry.yarnpkg.com/shadcn/-/shadcn-2.4.0-canary.11.tgz#907d874888b4559217129edb4772686d7d5844c3"
-  integrity sha512-Djrt8O9OVHgRtchjwPpAxQvA/TfjhBIh0kRll8mHDJ5B8xtytE70ufZcxWBi4p7i7EHKYTWb1968j4Ks9xexVA==
+shadcn@^2.4.0-canary.12:
+  version "2.4.0-canary.12"
+  resolved "https://registry.yarnpkg.com/shadcn/-/shadcn-2.4.0-canary.12.tgz#792176d0b6917d0c5882f67a84317951c8b0b7f6"
+  integrity sha512-451Gl3WrYqbbpokknAt+hUsj4jugIHq9oGTTCKqV/FLgvlQyH1+ULTWHCoAL8GRgW1WQiaVJx7N5dtL5cZd/7Q==
   dependencies:
     "@antfu/ni" "^23.2.0"
     "@babel/core" "^7.22.1"
